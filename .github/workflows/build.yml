@@ -25,7 +25,7 @@ jobs:
         with:
           go-version: '1.27.3'
       - name: Install the reviewed catalog builder
-        run: go install github.com/TokenFlux/TokenRouter/plugin-sdk/go/cmd/trplugin@v0.1.0
+        run: go install github.com/TokenFlux/TokenRouter/plugin-sdk/go/cmd/trplugin@v0.2.0
       - name: Restore accepted ingestion state
         shell: bash
         run: |
