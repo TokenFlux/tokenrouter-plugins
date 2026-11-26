@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "TokenRouter Official",
-  "generatedAt": "2026-11-25T23:38:24.369051238Z",
+  "generatedAt": "2026-11-26T08:21:06.199864096Z",
   "plugins": [
     {
       "id": "tokenflux.checkin",
